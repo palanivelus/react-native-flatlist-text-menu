@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {Text,View,StyleSheet,Picker, TouchableOpacity, Alert,ToastAndroid} from 'react-native';
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
-import MaterialIcon from 'react-native-vector-icons/MaterialIcons';
+
 
 import Menu, { MenuItem, MenuDivider } from 'react-native-material-menu';
 
